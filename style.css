@@ -30,6 +30,12 @@ footer {
   height: 5vh;
   text-align: center;
 }
+footer p{
+  color: var(--Grayish-blue);
+}
+footer a{
+  color: var(--Dark-blue);
+}
 
 .qr-card{
   width: 350px;
@@ -58,9 +64,11 @@ footer {
 
 .card-text h1{
   font-size: 22px;
+  color: var(--Dark-blue);
 }
 
 .card-text p{
   margin-top: 16px;
   font-size: 15px;
+  color: #7b879d;
 }
